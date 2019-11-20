@@ -1,0 +1,72 @@
+body{
+	padding-top:50px;
+}
+
+.bei{
+	
+	background-color: #d1d1d1;
+	
+}
+.zhong{
+	padding-top: 20px;
+}
+.title{
+	font-size:30px;
+	font-family: 楷体;
+	color:blue;
+}
+a.title{
+	background-color: #fff;
+}
+.zhaiyao{
+	font-size:15px;
+	font-family: 楷体;
+}
+.tu{
+	width: 400px;
+	height:290px;
+	background: url('../img/1.jpg') no-repeat;
+}
+.tu1{
+	padding-top: 240px;
+	text-align: center;
+	font-size: 30px;
+	color: #fff;
+	font-family: 宋体;
+}
+
+.zhong1{
+	padding-top: 300px;
+	
+	color: red;
+}
+
+.tu2{
+	padding-right: 20px;
+	width: 400px;
+	height:290px;
+	background: url('../img/2.jpg') ;
+}
+.tu3{
+padding-right: 20px;
+	width: 200px;
+	height:200px;
+	background: url('../img/1.jpg') ;
+}
+.tu4{
+padding-right: 20px;
+	width: 200px;
+	height:200px;
+	background: url('../img/1.jpg');
+}
+.wei{
+	text-align: center;
+	padding-top: 10px;
+	font-size: 20px;
+	width: 100%;
+	height: 60px;
+	color: #fff;
+	background-color: black;
+	bottom:0px;
+	position: fixed;
+}
